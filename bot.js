@@ -13,7 +13,7 @@ const { inspect } = require("util");
 let dev = ["738478465870987425"];
 const cmd = require("node-cmd");
 
-bot.login("NzMzMjg3NDkzMDQxOTEzODc3.XxA9Mg.l2LgcUulZ7JZLUW7D89HBvSWS9M")
+bot.login("ODMxMDcxOTM3ODUyOTk3NjYy.G5H5dh.6N5-6epAOIiIW32oq2QHU90LhO5xIZlNIUIlcI")
 global.mongoose = require('mongoose')
 mongoose.connect("mongodb+srv://expert:expert@cluster0.gsjzz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority", { useNewUrlParser: true, useUnifiedTopology: true }).then(() => {
   console.log("✅ Connected to the database.");
